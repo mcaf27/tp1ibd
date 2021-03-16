@@ -1,5 +1,3 @@
-PRAGMA cache_size = 0;
-
 /*PACIENTE*/
 CREATE TABLE [PACIENTE] ( 
 COD_PACIENTE INT, 
